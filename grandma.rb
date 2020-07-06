@@ -22,7 +22,3 @@ def speak_to_grandma(phrase)
     puts "HUH?! SPEAK UP, SONNY!"
   end
 end
-
-speak_to_grandma("I LOVE YOU GRANDMA!")
-speak_to_grandma("TESTING")
-speak_to_grandma("testing")
